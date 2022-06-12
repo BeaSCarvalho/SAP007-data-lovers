@@ -31,7 +31,7 @@
   - [2.3.1 Smartphone na Posição Vertical](#231-smartphone-na-posição-vertical)
   - [2.3.2 Smartphones na Posição Horizontal](#232-smartphones-na-posição-horizontal)
   - [2.3.3 Tablet na Posição Vertical](#233-tablet-na-posição-vertical)
-  - [2.3.4. Table na Posição Horizontal](#234-table-na-posição-horizontal)
+  - [2.3.4. Tablet na Posição Horizontal](#234-table-na-posição-horizontal)
   - [2.3.5. Desktop](#235-desktop)
 - [3. TESTE DE USABILIDADE](#3-teste-de-usabilidade)
 - [4. FERRAMENTAS UTILIZADAS](#4-ferramentas-utilizadas)
@@ -154,7 +154,7 @@ Os principais usuários do _OnPokemon_, são os jogadores (treinadores) que dese
   <img alt="Protótipo de Tablet com orientação vertical" src="/src/img/to-readme/tablet-vertical.gif">
 </div>
 
-### 2.3.4. Table na Posição Horizontal
+### 2.3.4. Tablet na Posição Horizontal
 
 <div>
   <img alt="Protótipo de Tablet com orientação horizontal" src="/src/img/to-readme/tablet-horizontal.gif">
